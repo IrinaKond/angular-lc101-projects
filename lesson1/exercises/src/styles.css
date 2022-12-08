@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+/*.col-3 {
+border: 1px solid rgb(90, 50, 90);
+}*/
+
+body {
+  background-color: rgba(128, 128, 128, 0.141);
+}

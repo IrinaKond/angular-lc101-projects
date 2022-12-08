@@ -1,9 +1,10 @@
 .chores {
   color:rgb(68, 68, 149);
-  font-size: 1.4vw;
+  font-size: 1.5vw;
 }
 h3 {
  text-decoration: underline;
+ font-family: sans-serif;
 }
 li {
   font-style: italic;

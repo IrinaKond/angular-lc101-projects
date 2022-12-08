@@ -1,11 +1,11 @@
 h3 {
-   color: brown;
+   color: rgb(138, 37, 103)
 }
 
 img {
-  width: 50%;
+  width: 70%;
   height: auto;
-
+  border: 1px solid rgb(90, 50, 90);
 }
 
 .photos {

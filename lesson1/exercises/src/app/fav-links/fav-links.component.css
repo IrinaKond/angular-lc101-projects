@@ -1,0 +1,13 @@
+.links {
+  text-align: center;
+}
+h3 {
+  color:rgb(45, 58, 180);
+}
+a {
+  text-decoration: none;
+  color: rgb(153, 68, 153);
+  font-size: 1.3ew;
+  font-weight: 700;
+  display: inline-block;
+}
